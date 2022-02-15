@@ -62,13 +62,26 @@ body {
 .links {
     padding-top: 2em;
     padding-bottom: 4em;
+    display: flex;
+    flex-direction: row;
+    font-family: 'Oxygen', sans-serif;
+    font-size: 1.25rem;
+    line-height: 1.75rem;
 }
 
 .links > a {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
     padding-left: 0.5em;
     padding-right: 0.5em;
     text-decoration: none;
     color: gray;
+}
+
+.links > a > p {
+    padding-left: 0.5em;
+    padding-right: 0.5em;
 }
 
 .links > a:hover {
@@ -89,5 +102,9 @@ body {
         display: flex;
         justify-content: center;
         align-items: center;
+    }
+    .links > a > p {
+        display: none;
+        visibility: hidden;
     }
 }
