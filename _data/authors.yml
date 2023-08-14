@@ -1,0 +1,22 @@
+Aaron van Geffen:
+  name:   "Aaron van Geffen"
+  bi:     "OpenLoco development team"
+  avatar: "/assets/img/bio-aaron.jpg"
+  links:
+    - label: "Website"
+      icon: "fas fa-fw fa-link"
+      url: "https://aaronweb.net"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/aaronvangeffen"
+    - label: "Mastodon"
+      icon: "fab fa-fw fa-mastodon"
+      url: "https://mastodon.social/@aaronvangeffen"
+Duncan Frost:
+  name:   "Duncan Frost"
+  bio:    "OpenLoco development team"
+  avatar: "/assets/img/bio-duncan.png"
+  links:
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/duncanspumpkin"
