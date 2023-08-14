@@ -1,18 +1,7 @@
 ---
-layout: page
-title: About
+layout: single
+title: About OpenLoco
 permalink: /about/
 ---
 
-This is the base Jekyll theme. You can find out more info about customizing your Jekyll theme, as well as basic Jekyll usage documentation at [jekyllrb.com](https://jekyllrb.com/)
-
-You can find the source code for Minima at GitHub:
-[jekyll][jekyll-organization] /
-[minima](https://github.com/jekyll/minima)
-
-You can find the source code for Jekyll at GitHub:
-[jekyll][jekyll-organization] /
-[jekyll](https://github.com/jekyll/jekyll)
-
-
-[jekyll-organization]: https://github.com/jekyll
+The OpenLoco project started in early 2018. Brought by the same group of people behind [OpenRCT2](https://openrct2.io), we are making a modern, open source version of the classic transport simulation game *Chris Sawyer’s Locomotion* by reimplementing the game fully in C++. Currently, the coding efforts are about 60% completed. For the other 40%, we rely on the original *Locomotion* binary.
