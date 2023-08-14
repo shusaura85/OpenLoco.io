@@ -1,0 +1,12 @@
+title: OpenLoco
+email: aaron@aaronweb.net
+description: >-
+   An open source re-implementation of Chris Sawyer's Locomotion
+baseurl: "/OpenLoco-Pages"
+url: "https://aaronvangeffen.github.io"
+github_username: OpenLoco
+
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
