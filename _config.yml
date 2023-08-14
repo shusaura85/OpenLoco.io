@@ -12,6 +12,8 @@ plugins:
   - jekyll-feed
   - jekyll-include-cache
 
+include: ["_pages"]
+
 footer:
   links:
     - label: "Discord"
