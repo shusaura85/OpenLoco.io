@@ -1,5 +1,5 @@
 title: OpenLoco
-name: Aaron van Geffen
+name: OpenLoco Developers
 email: aaron@aaronweb.net
 description: An open source re-implementation of Chris Sawyer's Locomotion
 baseurl: "/OpenLoco-Pages"
@@ -11,6 +11,15 @@ remote_theme: "mmistakes/minimal-mistakes@4.24.0"
 plugins:
   - jekyll-feed
   - jekyll-include-cache
+
+footer:
+  links:
+    - label: "Discord"
+      icon: "fab fa-fw fa-discord"
+      url: "https://discord.gg/bJU5PfQTCF"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/OpenLoco/OpenLoco/"
 
 defaults:
   -
