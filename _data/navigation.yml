@@ -4,7 +4,7 @@ main:
   - title: "News"
     url: /news/
   - title: "Download"
-    url: https://github.com/OpenLoco/OpenLoco/releases
+    url: /download/
   - title: "Wiki"
     url: https://github.com/OpenLoco/OpenLoco/wiki
   - title: "Discord"

@@ -9,7 +9,7 @@ header:
     - label: "Read more"
       url: "/about/"
     - label: "Download"
-      url: "https://github.com/OpenLoco/OpenLoco/releases"
+      url: "/download/"
 
 gallery:
   - url: /assets/img/gallery-screenshot-0.png
