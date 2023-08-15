@@ -4,6 +4,7 @@ tagline: "Get the latest and the greatest release here."
 layout: single
 classes: wide
 permalink: /download/
+latest_version: "23.08"
 ---
 
 # Downloading the game
@@ -11,9 +12,9 @@ permalink: /download/
 Please note that the asset files from *Chris Sawyer's Locomotion* are required for OpenLoco to work.
 It can be bought on e.g. [Steam](https://store.steampowered.com/app/356430/) or [GOG.com](https://www.gog.com/game/chris_sawyers_locomotion).
 
-The latest version of OpenLoco is v23.07.<br>
-[Changelog](https://github.com/OpenLoco/OpenLoco/releases/v23.07/)<br>
-[Release announcement](https://aaronvangeffen.github.io/OpenLoco-Pages/news/2023/07/25/openloco-v23.07.html)
+The latest version of OpenLoco is v{{page.latest_version}}.<br>
+[Changelog](https://github.com/OpenLoco/OpenLoco/releases/v{{page.latest_version}}/)<br>
+[Release announcement](https://aaronvangeffen.github.io/OpenLoco-Pages/news/{{page.latest_version | replace: ".", "/"}}/openloco-v{{page.latest_version}}.html)
 
 
 ## Windows users
@@ -22,8 +23,8 @@ The latest release can be downloaded from GitHub using the link below.
 Simply unzip the download to your preferred folder, e.g. `C:\Program Files\OpenLoco`.
 We recommend putting OpenLoco in a *different* folder than the the original Locomotion files.
 
-<a class="btn btn--large btn--success" href="https://github.com/OpenLoco/OpenLoco/releases/download/v23.07/OpenLoco-v23.07-Win32.zip">
-	Download OpenLoco v23.07 for Windows<br>
+<a class="btn btn--large btn--success" href="https://github.com/OpenLoco/OpenLoco/releases/download/v{{page.latest_version}}/OpenLoco-v{{page.latest_version}}-Win32.zip">
+	Download OpenLoco v{{page.latest_version}} for Windows<br>
 	<span style="font-size: 0.75rem; font-weight: normal">(.zip, 32-bits, Intel x86)</span>
 </a>
 
