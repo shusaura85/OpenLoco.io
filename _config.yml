@@ -13,6 +13,8 @@ plugins:
   - jekyll-include-cache
   - jekyll-paginate
 
+permalink: /:categories/:year/:month/:title:output_ext
+
 include: ["_pages"]
 
 paginate: 5
