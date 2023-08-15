@@ -9,7 +9,7 @@ permalink: /download/
 # Downloading the game
 
 Please note that the asset files from *Chris Sawyer's Locomotion* are required for OpenLoco to work.
-It can be bought at e.g. [Steam](https://store.steampowered.com/app/356430/) or [GOG.com](https://www.gog.com/game/chris_sawyers_locomotion).
+It can be bought on e.g. [Steam](https://store.steampowered.com/app/356430/) or [GOG.com](https://www.gog.com/game/chris_sawyers_locomotion).
 
 The latest version of OpenLoco is v23.07.<br>
 [Changelog](https://github.com/OpenLoco/OpenLoco/releases/v23.07/)<br>
