@@ -1,0 +1,48 @@
+title: OpenLoco
+name: OpenLoco Developers
+email: aaron@aaronweb.net
+description: An open source re-implementation of Chris Sawyer's Locomotion
+url: "https://openloco.io"
+baseurl: "/"
+github_username: OpenLoco
+
+logo: "/assets/svg/logo.svg"
+remote_theme: "mmistakes/minimal-mistakes@4.24.0"
+plugins:
+  - jekyll-feed
+  - jekyll-include-cache
+  - jekyll-paginate
+
+permalink: /:categories/:year/:month/:title:output_ext
+
+include: ["_pages"]
+
+paginate: 5
+paginate_path: "/news/page-:num/"
+
+footer:
+  links:
+    - label: "Discord"
+      icon: "fab fa-fw fa-discord"
+      url: "https://discord.gg/bJU5PfQTCF"
+    - label: "GitHub"
+      icon: "fab fa-fw fa-github"
+      url: "https://github.com/OpenLoco/OpenLoco/"
+
+defaults:
+  -
+    scope:
+      path: ""
+    values:
+      layout: single
+      header:
+        overlay_color: "#000"
+        overlay_filter: "0.15"
+        overlay_image: /assets/img/screenshot.png
+  - scope:
+      path: ""
+      type: posts
+    values:
+      layout: single
+      author_profile: true
+      show_date: true

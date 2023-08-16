@@ -1,0 +1,11 @@
+main:
+  - title: "About"
+    url: /about/
+  - title: "News"
+    url: /news/
+  - title: "Download"
+    url: /download/
+  - title: "Wiki"
+    url: https://github.com/OpenLoco/OpenLoco/wiki
+  - title: "Discord"
+    url: https://discord.gg/bJU5PfQTCF
