@@ -2,8 +2,8 @@ title: OpenLoco
 name: OpenLoco Developers
 email: aaron@aaronweb.net
 description: An open source re-implementation of Chris Sawyer's Locomotion
-baseurl: "/OpenLoco-Pages"
-url: "https://aaronvangeffen.github.io"
+url: "https://openloco.io"
+baseurl: "/"
 github_username: OpenLoco
 
 logo: "/assets/svg/logo.svg"
