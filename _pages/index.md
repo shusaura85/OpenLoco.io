@@ -19,7 +19,7 @@ gallery:
   - url: /assets/img/gallery-screenshot-1.png
     image_path: /assets/thumbs/gallery-screenshot-1.jpg
     alt: "OpenLoco screenshot 1"
-    title: "Object selection allows for completely customisable gameplay."
+    title: "Object selection allows for completely customisable scenarios, even in-game."
   - url: /assets/img/gallery-screenshot-2.png
     image_path: /assets/thumbs/gallery-screenshot-2.jpg
     alt: "OpenLoco screenshot 2"
