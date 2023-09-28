@@ -14,7 +14,7 @@ It can be bought on e.g. [Steam](https://store.steampowered.com/app/356430/) or 
 
 The latest version of OpenLoco is v{{page.latest_version}}.<br>
 [Changelog](https://github.com/OpenLoco/OpenLoco/releases/v{{page.latest_version}}/)<br>
-[Release announcement](https://aaronvangeffen.github.io/OpenLoco-Pages/news/20{{page.latest_version | replace: ".", "/"}}/openloco-v{{page.latest_version}}.html)
+[Release announcement](https://openloco.io/news/20{{page.latest_version | replace: ".", "/"}}/openloco-v{{page.latest_version}}.html)
 
 
 ## Windows users
